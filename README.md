@@ -1,12 +1,26 @@
-# Homebrew Tap for DevBar
+# Homebrew Tap
 
 ## Install
 
 ```bash
-brew tap yanirmanor/devbar
+brew tap yanirmanor/homebrew-tap
+```
+
+## Available Formulae
+
+### ai-sessions
+
+```bash
+brew install ai-sessions
+```
+
+### devbar
+
+```bash
 brew install devbar
 ```
 
 ## About
 
-[DevBar](https://github.com/yanirmanor/devbar) is a macOS menu bar app that monitors your local dev servers.
+- [ai-sessions](https://github.com/yanirmanor/claude-sessions): TUI for browsing and resuming Claude Code and Codex CLI sessions.
+- [DevBar](https://github.com/yanirmanor/devbar): macOS menu bar app that monitors local dev servers.
